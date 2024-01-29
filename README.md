@@ -14,7 +14,7 @@
 
 ### You can find me:
 <div align="center">
-    <h3><a href="https://github.com/platonsolm">GitHub</a> • <a href="https://t.me/platonsolm">Telegram</a> • <a href="https://leetcode.com/platonsolm">LeetCode</a></h3>
+    <h3><a href="https://github.com/platonsolm">GitHub</a> • <a href="https://t.me/platonrealestate">Telegram</a> • <a href="https://leetcode.com/platonsolm">LeetCode</a></h3>
 </div>
 
 ### Github Stats
